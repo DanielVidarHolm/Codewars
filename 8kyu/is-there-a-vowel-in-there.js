@@ -2,7 +2,7 @@
 
 // If they are, change the array value to a string of that vowel.
 
-// Return the resulting array.
+// Return the resulting array..
 
 // Mapping the whole array returning the ascii conversion if its a vowel or returning the same item if not
 function isVow(a){
